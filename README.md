@@ -6,7 +6,7 @@
 <br/>
 
 ## Saudações, viajante! 👋
-:computer: Desenvolvedor front-end com foco em aplicações Angular 2+ :computer:
+:computer: &nbsp; Desenvolvedor front-end com foco em aplicações Angular 2+ :computer:
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Angular / React
  <br/> :blush: &nbsp; Posso te ajudar com CSS Flexbox
  <br/> :computer: &nbsp; Minha stack: Angular 2+ & Ionic 4
