@@ -10,7 +10,7 @@
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
 
 <a href="mailto:pf.rhuan@gmail.com" target="_blank">
-<img src='https://image.flaticon.com/icons/svg/54/54215.svg' alt='linkedin' width="55" height='50' hspace="5"></a>
+<img src='https://image.flaticon.com/icons/svg/54/54215.svg' alt='linkedin' width="55" height='45' hspace="5"></a>
 </div>
 
 ### About me
