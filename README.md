@@ -10,7 +10,7 @@
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
 
 <a href="mailto:pf.rhuan@gmail.com" target="_blank">
-<img src='https://www.appenate.com/wp-content/uploads/2019/11/kisspng-computer-icons-clip-art-email-portable-network-gra-mail-svg-icon-transparent-amp-png-clipart-free-d-5cc09f6d98a4b0.0530810215561275976252.png' alt='linkedin' height='45' hspace="5"></a>
+<img src='https://www.appenate.com/wp-content/uploads/2019/11/kisspng-computer-icons-clip-art-email-portable-network-gra-mail-svg-icon-transparent-amp-png-clipart-free-d-5cc09f6d98a4b0.0530810215561275976252.png' alt='linkedin' width="45" height='45' hspace="5"></a>
 </div>
 
 ### About me
