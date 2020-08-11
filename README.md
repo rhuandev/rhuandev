@@ -1,16 +1,28 @@
+### Olá 👋, meu nome é Rhuan Carlos
+#### Sou um desenvolvedor Front-End
+![I'm a Front-end developer](https://raw.githubusercontent.com/rhutao/rhutao/master/banner.png)
 
-<img width="auto" src="https://github.com/rhutao/rhutao/blob/master/banner.png">
+<div align="center">
+<a href="https://github.com/rhutao" target="_blank">
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' hspace="10"></a>
 
-# Rhuan Carlos :ballot_box_with_check:
-### :pray: Focado :pray:
-<br/>
+<a href="https://www.linkedin.com/in/rhuan-carlos/" target="_blank">
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
 
-## Saudações, viajante! 👋
-:computer: &nbsp; Desenvolvedor front-end com foco em aplicações Angular 2+ :computer:
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando Angular / React
- <br/> :blush: &nbsp; Posso te ajudar com CSS Flexbox
- <br/> :computer: &nbsp; Minha stack: Angular 2+ & Ionic 4
- <br/> 💬  &nbsp; Sobre mim: Apaixonado por tecnologia e games LoLzin (Meu tryndamere amassa qualquer um :sunglasses: ) e Valorant são os meus amores principais.
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-RhuanCarlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhuan-carlos/)](https://www.linkedin.com/in/rhuan-carlos/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-pf.rhuan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pf.rhuan@gmail.com)](mailto:pf.rhuan@gmail.com)
+<a href="mailto:pf.rhuan@gmail.com" target="_blank">
+<img src='https://www.appenate.com/wp-content/uploads/2019/11/kisspng-computer-icons-clip-art-email-portable-network-gra-mail-svg-icon-transparent-amp-png-clipart-free-d-5cc09f6d98a4b0.0530810215561275976252.png' alt='linkedin' height='55' hspace="5"></a>
+</div>
+
+### About me
+Desenvolvedor front-end com foco em aplicações Angular 2+, apaixonado por tecnologia, desde criança almejo me tornar programador e auxiliar no desenvolvimento de novas tecnologias. 
+
+Stack: Angular 2+ / Ionic 4
+
+- 🌱 Estou estudando: ReactJS / ReactNative / NodeJS / MongoDB 
+- 👯 Procurando contribuir em projetos: Usando Angular / React 
+- 🤔 Posso te ajudar com CSS Flexbox 
+- ⚡ Fun fact: Sou amante de games, se você é gamer com certeza poderemos ser amigos! 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rhutao&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/rhutao) 
