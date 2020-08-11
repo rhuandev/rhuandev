@@ -1,5 +1,5 @@
-### Olá 👋, meu nome é Rhuan Carlos
-#### Sou um desenvolvedor Front-End
+## Olá 👋, meu nome é Rhuan Carlos
+### Sou um desenvolvedor Front-End
 ![I'm a Front-end developer](https://raw.githubusercontent.com/rhutao/rhutao/master/banner.png)
 
 <div align="center">
