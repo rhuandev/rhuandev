@@ -23,6 +23,6 @@ Stack: Angular 2+ / Ionic 4
 - 🤔 Posso te ajudar com CSS Flexbox 
 - ⚡ Fun fact: Sou amante de games, se você é gamer com certeza poderemos ser amigos! 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rhutao&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rhuandev&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/rhutao) 
