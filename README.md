@@ -10,7 +10,7 @@
 - 📄 Know about my experiences
 [https://www.linkedin.com/in/rhuan-carlos/](https://www.linkedin.com/in/rhuan-carlos/)
 
-<h3 align="left">Connect with me:</h3>
+## 👨‍💻 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/rhuan-carlos" target="blank"
     ><img
@@ -30,7 +30,7 @@
 /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 📄 Languages and Tools:
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img
