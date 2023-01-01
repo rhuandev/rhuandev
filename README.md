@@ -30,8 +30,8 @@
     align="center"
     src="https://img.icons8.com/color/480/apple-mail.png"
     alt="E-mail: pf.rhuan@gmail.com"
-    height="30"
-    width="40"
+    height="50"
+    width="50"
 /></a>
 </p>
 
