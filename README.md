@@ -30,8 +30,8 @@
     align="center"
     src="https://img.icons8.com/color/480/apple-mail.png"
     alt="E-mail: pf.rhuan@gmail.com"
-    height="50"
-    width="50"
+    height="30"
+    width="40"
 /></a>
 </p>
 
@@ -146,18 +146,13 @@
   </a>
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rhuandev&show_icons=true&locale=en&layout=compact"
-    alt="rhuandev"
-  />
-</p>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rhuandev&"
-    alt="rhuandev"
-  />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rhuandev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=rhuandev&icon=2&color=1)](https://visitcount.itsvg.in)
