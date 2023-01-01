@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhuan Carlos</h1>
 <h3 align="center">A passionate Front-End developer from Brazil</h3>
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=rhuandev&label=Profile%20views&color=0e75b6&style=flat"
-    alt="rhuandev"
-  />
-</p>
+[![](https://visitcount.itsvg.in/api?id=rhuandev&icon=2&color=1)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on **some personal projects** 
 - 🌱 I’m currently learning **Angular 2+, Ionic Framework** 
@@ -146,13 +141,8 @@
   </a>
 </p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rhuandev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=rhuandev&icon=2&color=1)](https://visitcount.itsvg.in)
