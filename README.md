@@ -1,15 +1,21 @@
 <h1 align="center">Hi 👋, I'm Rhuan Carlos</h1>
 <h3 align="center">A passionate Front-End developer from Brazil</h3>
 
+
 [![](https://visitcount.itsvg.in/api?id=rhuandev&icon=2&color=1)](https://visitcount.itsvg.in)
+
 
 - 🔭 I’m currently working on **some personal projects** 
 - 🌱 I’m currently learning **Angular 2+, Ionic Framework** 
 - 👨‍💻 All of my projects are available at [rhuan.tech](rhuan.tech) 
 - 💬 Ask me about **Angular 2+, Ionic Framework** 
+
+
 - 📄 Know about my experiences
 [https://www.linkedin.com/in/rhuan-carlos/](https://www.linkedin.com/in/rhuan-carlos/)
-<br>
+
+
+
 ## 👨‍💻 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/rhuan-carlos" target="blank"
@@ -29,7 +35,8 @@
     width="50"
 /></a>
 </p>
-<br>
+
+
 ## 📄 Languages and Tools:
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -140,9 +147,11 @@
     />
   </a>
 </p>
-<br>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rhuandev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<br>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
