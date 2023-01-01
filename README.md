@@ -9,7 +9,7 @@
 - 💬 Ask me about **Angular 2+, Ionic Framework** 
 - 📄 Know about my experiences
 [https://www.linkedin.com/in/rhuan-carlos/](https://www.linkedin.com/in/rhuan-carlos/)
-
+<br>
 ## 👨‍💻 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/rhuan-carlos" target="blank"
@@ -25,11 +25,11 @@
     align="center"
     src="https://img.icons8.com/color/480/apple-mail.png"
     alt="E-mail: pf.rhuan@gmail.com"
-    height="30"
-    width="40"
+    height="50"
+    width="50"
 /></a>
 </p>
-
+<br>
 ## 📄 Languages and Tools:
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -140,9 +140,9 @@
     />
   </a>
 </p>
-
+<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rhuandev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
