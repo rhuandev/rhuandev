@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **building useful tools for different communities** 
 - 🌱 I’m currently learning **Angular 2+, Ionic Framework** 
-- 👨‍💻 All of my projects are available at [rhuan.tech](rhuan.tech) 
+- 👨‍💻 All of my projects are available at [my portfolio site.](rhuan.tech) 
 - 💬 Ask me about **Angular 2+, Ionic Framework** 
 
 
