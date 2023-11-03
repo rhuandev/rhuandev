@@ -5,7 +5,7 @@
 [![](https://visitcount.itsvg.in/api?id=rhuandev&icon=2&color=1)](https://visitcount.itsvg.in)
 
 
-- 🔭 I’m currently working on **some personal projects** 
+- 🔭 I’m currently working on **building useful tools for different communities** 
 - 🌱 I’m currently learning **Angular 2+, Ionic Framework** 
 - 👨‍💻 All of my projects are available at [rhuan.tech](rhuan.tech) 
 - 💬 Ask me about **Angular 2+, Ionic Framework** 
